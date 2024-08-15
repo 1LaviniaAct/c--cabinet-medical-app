@@ -1,0 +1,10 @@
+Pacientul cu numele Lavinia, in varsta de 20, de sex F, care are urmatoarele retete:
+reteta cu codul 111este compensata: da si are 2 medicamente:
+la, na, 4, 3, 
+reteta cu codul 435este compensata: nu si are 1 medicamente:
+brufen, 3, 
+ si urmatorii medici: 
+Reteta a fost oferita de medicul cu id-ul 0 are numele Marinescu
+
+
+
